@@ -34,10 +34,11 @@ We build tools, share what we learn, help each other get unstuck, and have a goo
 
 ---
 
-### Community Tools
+### Tools
 
 | | |
 |---|---|
+| **[toolbox](https://github.com/Robot-Friends-Community/toolbox)** | Directory of every RF tool — web apps, developer tools, and what's coming next |
 | **[hail](https://github.com/Robot-Friends-Community/hail)** | Voice notifications for Claude Code — 14 character packs so you can stop staring at the terminal |
 | **[no-look-pass](https://github.com/Robot-Friends-Community/no-look-pass)** | Context handoff for Claude Code — never lose your work mid-session. Includes Instant Replay game film logging. |
 
