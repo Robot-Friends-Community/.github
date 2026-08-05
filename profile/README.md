@@ -1,53 +1,40 @@
-```
-╔═[ ROBOT FRIENDS COMMUNITY ]════════════════════════════════════════════════╗
-║                                                                            ║
-║  ██████╗  ██████╗ ██████╗  ██████╗ ████████╗                               ║
-║  ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝                               ║
-║  ██████╔╝██║   ██║██████╔╝██║   ██║   ██║                                  ║
-║  ██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║                                  ║
-║  ██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║                                  ║
-║  ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝   ╚═╝                                  ║
-║                                                                            ║
-║      ███████╗██████╗ ██╗███████╗███╗   ██╗██████╗ ███████╗                 ║
-║      ██╔════╝██╔══██╗██║██╔════╝████╗  ██║██╔══██╗██╔════╝                 ║
-║      █████╗  ██████╔╝██║█████╗  ██╔██╗ ██║██║  ██║███████╗                 ║
-║      ██╔══╝  ██╔══██╗██║██╔══╝  ██║╚██╗██║██║  ██║╚════██║                 ║
-║      ██║     ██║  ██║██║███████╗██║ ╚████║██████╔╝███████║                 ║
-║      ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝                 ║
-║                                                                            ║
-╚═[ ROBOT FRIENDS COMMUNITY ]════════════════════════════════════════════════╝
-```
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Robot-Friends-Community/.github/main/profile/assets/hero.png" alt="Robot Friends — a community of builders and AI friends" width="100%">
+
+<br/>
 
 **Builders, tinkerers, and AI enthusiasts. Come hang.**
 
-<br/>
-
 [![Join the Discord](https://img.shields.io/badge/Join%20the%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/jaGWxt6rxP)
-
-<br/>
 
 </div>
 
-We build tools, share what we learn, help each other get unstuck, and have a good time doing it. Discord is home base. This is where we put the work.
+---
+
+**Robot Friends builds AI tools with good vibes — small, friendly, open-source tools that give you your best hours back.**
+
+We're a community of builders and AI enthusiasts who think powerful software should also be approachable, fun, and real. We build tools, share what we learn, help each other get unstuck, and have a good time doing it. Discord is home base — this is where we put the work. Poke around, use what helps, and if you want to build something with us, pull up a bench. `:)`
 
 ---
 
-### Tools
+### 🧰 The Toolbox
 
-| | |
+| Tool | What it does |
 |---|---|
-| **[toolbox](https://github.com/Robot-Friends-Community/toolbox)** | Directory of every RF tool — web apps, developer tools, and what's coming next |
-| **[hail](https://github.com/Robot-Friends-Community/hail)** | Voice notifications for Claude Code — 14 character packs so you can stop staring at the terminal |
-| **[no-look-pass](https://github.com/Robot-Friends-Community/no-look-pass)** | Context handoff for Claude Code — never lose your work mid-session. Includes Instant Replay game film logging. |
+| **[no-look-pass](https://github.com/Robot-Friends-Community/no-look-pass)** | Context handoff for Claude Code — never lose your work mid-session. Includes Instant Replay game-film logging. |
+| **[hail](https://github.com/Robot-Friends-Community/hail)** | Voice notifications for Claude Code — audio alerts so you can stop staring at the terminal. |
+| **[DoPA](https://github.com/Robot-Friends-Community/dopa)** | Local-dev port registry + inspector + do-not-kill guard — stop killing each other's dev servers. |
+| **[toolbox](https://github.com/Robot-Friends-Community/toolbox)** | Directory of every RF tool — and what's coming next. |
 
-Everything is MIT licensed. Take it, fork it, make it yours. More tools coming as the community builds them.
+Everything is MIT licensed. Take it, fork it, make it yours. Issues, ideas, and PRs all welcome — every friend started as a first-timer.
 
 ---
 
 <div align="center">
 
 [robobffs.com](https://robobffs.com) · [discord.gg/jaGWxt6rxP](https://discord.gg/jaGWxt6rxP)
+
+`:)`
 
 </div>
