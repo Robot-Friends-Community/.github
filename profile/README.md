@@ -27,6 +27,7 @@ Our developer tools are institutions with a mandate — each one runs a piece of
 |---|---|---|
 | **[Airport Authority](https://github.com/Robot-Friends-Community/airport-authority)** | the tower | Session continuity & project-lifecycle control for Claude Code — trust the tower, never lose a session. |
 | **[Baggage Claim](https://github.com/Robot-Friends-Community/baggage-claim)** | the carousel | The two-command context handoff for Claude Code — `/checkin` before you clear, `/claim` on the other side. The beginner edition of Airport Authority. |
+| **[Combined Arms](https://github.com/Robot-Friends-Community/combined-arms)** | the logistics office | Department of Session Logistics — guardrails for running many Claude Code sessions on one machine. Stay in your lane, land before you run out of room. |
 | **[Customs Authority](https://github.com/Robot-Friends-Community/customs-authority)** | the border | Department of Snap Judgments — the decision-layer toolkit for Claude Code. Stamp the sure, escalate the rest. |
 | **[DoPA](https://github.com/Robot-Friends-Community/dopa)** | the port | Local-dev port registry + inspector + do-not-kill guard — stop killing each other's dev servers. |
 | **[Hail](https://github.com/Robot-Friends-Community/hail)** | the signal station | Voice notifications for Claude Code — audio alerts so you can stop staring at the terminal. |
